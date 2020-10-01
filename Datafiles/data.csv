@@ -1,0 +1,11 @@
+Name,Number,College,Branch,Year
+Ambika,11,SVECW,ECE,2017
+Pavani,10,Aditya,CSE,2017
+Vanitha,13,IIIT,CSE,2018
+Archana,16,GEC,CSE,2017
+Vidya,17, ,CSE,2016
+Ambika,,SVECW,ECE,2017
+Pavani,10,Aditya,CSE
+Vanitha,13,IIIT,CSE,2018
+Archana,16,GEC,CSE,2017
+Vidya,17, ,CSE,2016
